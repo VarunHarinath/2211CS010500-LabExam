@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2211CS010500-LabExam/static/css/main.d5289b2f.css",
+    "main.js": "/2211CS010500-LabExam/static/js/main.13bd9430.js",
+    "index.html": "/2211CS010500-LabExam/index.html",
+    "main.d5289b2f.css.map": "/2211CS010500-LabExam/static/css/main.d5289b2f.css.map",
+    "main.13bd9430.js.map": "/2211CS010500-LabExam/static/js/main.13bd9430.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.13bd9430.js"
+  ]
+}
